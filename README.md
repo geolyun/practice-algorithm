@@ -1,8 +1,8 @@
 https://github.com/encrypted-def/basic-algo-lecture?tab=readme-ov-file 1일 1문제 실천 계획
 
-0x00강 - 오리엔테이션 <br />
-0x01강 - 기초 코드 작성 요령 I<br />
-0x02강 - 기초 코드 작성 요령 II<br />
+0x00강 - 오리엔테이션 ✅️ <br /> 
+0x01강 - 기초 코드 작성 요령 I ✅️<br />
+0x02강 - 기초 코드 작성 요령 II ✅️<br />
 0x03강 - 배열<br />
 0x04강 - 연결 리스트<br />
 0x05강 - 스택<br />
@@ -21,3 +21,5 @@ https://github.com/encrypted-def/basic-algo-lecture?tab=readme-ov-file 1일 1문
 부록 A - 문자열 기초<br />
 부록 B - 동적 배열<br />
 부록 C - 비트마스킹<br />
+
+(기초적인 부분은 건너뛸 예정)
