@@ -23,3 +23,5 @@ https://github.com/encrypted-def/basic-algo-lecture?tab=readme-ov-file 1일 1문
 부록 C - 비트마스킹<br />
 
 (기초적인 부분은 건너뛸 예정)
+
+이후 못풀었던 프로그래머스 2단계, 인턴십 문제 등 풀이 예정
