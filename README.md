@@ -3,8 +3,8 @@ https://github.com/encrypted-def/basic-algo-lecture?tab=readme-ov-file 1일 1문
 0x00강 - 오리엔테이션 ✅️ <br /> 
 0x01강 - 기초 코드 작성 요령 I ✅️<br />
 0x02강 - 기초 코드 작성 요령 II ✅️<br />
-0x03강 - 배열<br />
-0x04강 - 연결 리스트<br />
+0x03강 - 배열 ✅️<br />
+0x04강 - 연결 리스트 ✅️<br />
 0x05강 - 스택<br />
 0x06강 - 큐<br />
 0x07강 - 덱<br />
