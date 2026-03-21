@@ -6,7 +6,7 @@ https://github.com/encrypted-def/basic-algo-lecture?tab=readme-ov-file 1일 1문
 0x03강 - 배열 ✅️<br />
 0x04강 - 연결 리스트 ✅️<br />
 0x05강 - 스택 ✅️ [6549는 추후 재도전 예정] <br /> 
-0x06강 - 큐<br />
+0x06강 - 큐 ✅️ <br />
 0x07강 - 덱<br />
 0x08강 - 스택의 활용(수식의 괄호 쌍)<br />
 0x09강 - BFS<br />
