@@ -4,10 +4,12 @@ class Solution {
 
         boolean check = false;
 
+        // 변환한 이진수와 0 제거한 이진수의 차로 1의 갯수 구함 
         String binaryString = Integer.toBinaryString(n);
         String replaceString = binaryString.replace("0", "");
         int cnt = replaceString.length();
 
+        // 답을 찾을 때까지 반복
         while (check == false) {
             
             ++n;
